@@ -17,10 +17,11 @@ DON'T modify any other token on the list.
 
 At minimum each entry should have
 
-- Token Address:
-- Token Name:
-- Token Symbol:
-- Logo: (logo should be uploaded under assets/mainnet/<mint address>/\*.<png/svg>)
+- Token Address:"FGSHn327kZ7CaigVPJR8r3ph5wzShgYSsWZz169HNsZt"
+- Token Name:Bit$ch 
+- Token Symbol:Bit$ch
+- Logo: <img width="314" alt="Bit$ch" src="https://github.com/user-attachments/assets/39797eec-0ba3-4a30-90c2-aee5f2df2014">
+(logo should be uploaded under assets/mainnet/<mint address>/\*.<png/svg>)
 - Link to the official homepage of token:
 - Coingecko ID if available (https://www.coingecko.com/api/documentations/v3#/coins/get_coins__id_):
 
